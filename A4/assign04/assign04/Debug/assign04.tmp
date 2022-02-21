@@ -1,0 +1,94 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>E:\course\csc230\A4\assign04\assign04\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/atemlStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>E:\atemlStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/atemlStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+  <FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE>
+  <FILE>E:\course\csc230\A4\assign04\assign04\LCDdefs.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\course\csc230\A4\assign04\assign04\Debug\assign04.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>assign04.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>assign04.map</FILE>
+  <FILE>assign04.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>32</LINE></reset>
+  <isr_timer1_cmpb><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>125</LINE></isr_timer1_cmpb>
+  <isr_adc_c><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>84</LINE></isr_adc_c>
+  <lcd_after><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>960</LINE></lcd_after>
+  <lcd_nbl><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>318</LINE></lcd_nbl>
+  <dly_us><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>824</LINE></dly_us>
+  <lcd_byte><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>381</LINE></lcd_byte>
+  <lcd_cmd><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>428</LINE></lcd_cmd>
+  <cmd_fin><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>458</LINE></cmd_fin>
+  <dly_ms><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>854</LINE></dly_ms>
+  <lcd_putchar><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>483</LINE></lcd_putchar>
+  <cursor_col><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>975</LINE></cursor_col>
+  <lcd_puts><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>538</LINE></lcd_puts>
+  <parse><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>552</LINE></parse>
+  <donestr><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>560</LINE></donestr>
+  <lcd_gotoxy><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>589</LINE></lcd_gotoxy>
+  <check_col><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>606</LINE></check_col>
+  <gotoxy_assign><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>610</LINE></gotoxy_assign>
+  <cursor_row><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>974</LINE></cursor_row>
+  <ln2><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>628</LINE></ln2>
+  <ln1><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>634</LINE></ln1>
+  <addcol><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>637</LINE></addcol>
+  <lcd_clr><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>661</LINE></lcd_clr>
+  <lcd_init><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>689</LINE></lcd_init>
+  <dly_init><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>754</LINE></dly_init>
+  <dlyus_dreg><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>828</LINE></dlyus_dreg>
+  <dlyus_in><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>829</LINE></dlyus_in>
+  <dlyms><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>879</LINE></dlyms>
+  <str_init><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>906</LINE></str_init>
+  <initloop><FILE>E:\course\csc230\A4\assign04\assign04\lcd.asm</FILE><LINE>924</LINE></initloop>
+  <init_v><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>401</LINE></init_v>
+  <vstr><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>415</LINE></vstr>
+  <string_to_data><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>382</LINE></string_to_data>
+  <done><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>82</LINE></done>
+  <H><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>105</LINE></H>
+  <T><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>99</LINE></T>
+  <rand><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>235</LINE></rand>
+  <led><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>323</LINE></led>
+  <str_t><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>291</LINE></str_t>
+  <show_decT><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>173</LINE></show_decT>
+  <finish><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>122</LINE></finish>
+  <str_h><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>251</LINE></str_h>
+  <show_decH><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>133</LINE></show_decH>
+  <minus><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>120</LINE></minus>
+  <div10><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>221</LINE></div10>
+  <hstr><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>411</LINE></hstr>
+  <pos><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>182</LINE></pos>
+  <tstr><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>413</LINE></tstr>
+  <next><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>185</LINE></next>
+  <db10_loop><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>225</LINE></db10_loop>
+  <db10_done><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>231</LINE></db10_done>
+  <init_h><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>403</LINE></init_h>
+  <init_t><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>405</LINE></init_t>
+  <first><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>353</LINE></first>
+  <ones><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>336</LINE></ones>
+  <second><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>356</LINE></second>
+  <two><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>339</LINE></two>
+  <third><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>360</LINE></third>
+  <three><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>342</LINE></three>
+  <fourth><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>363</LINE></fourth>
+  <four><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>345</LINE></four>
+  <fifth><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>366</LINE></fifth>
+  <five><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>348</LINE></five>
+  <sixth><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>369</LINE></sixth>
+  <end><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>373</LINE></end>
+  <loop><FILE>E:\course\csc230\A4\assign04\assign04\virtual sensing V00915261.asm</FILE><LINE>386</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

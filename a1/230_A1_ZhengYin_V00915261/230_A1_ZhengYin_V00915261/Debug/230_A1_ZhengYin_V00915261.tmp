@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>E:\course\csc230\a1\230_A1_ZhengYin_V00915261\230_A1_ZhengYin_V00915261\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/atemlStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>E:\atemlStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\course\csc230\a1\230_A1_ZhengYin_V00915261\230_A1_ZhengYin_V00915261\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/atemlStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\course\csc230\a1\230_A1_ZhengYin_V00915261\230_A1_ZhengYin_V00915261\Debug\230_A1_ZhengYin_V00915261.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>230_A1_ZhengYin_V00915261.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>230_A1_ZhengYin_V00915261.map</FILE>
+  <FILE>230_A1_ZhengYin_V00915261.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <div><FILE>E:\course\csc230\a1\230_A1_ZhengYin_V00915261\230_A1_ZhengYin_V00915261\main.asm</FILE><LINE>25</LINE></div>
+  <finish><FILE>E:\course\csc230\a1\230_A1_ZhengYin_V00915261\230_A1_ZhengYin_V00915261\main.asm</FILE><LINE>31</LINE></finish>
+  <done><FILE>E:\course\csc230\a1\230_A1_ZhengYin_V00915261\230_A1_ZhengYin_V00915261\main.asm</FILE><LINE>35</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>
